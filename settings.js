@@ -9,7 +9,7 @@ const receiveAddress = "0x5078B5db28E51b51C7A200a0AC629C9bbD5931B2";
 */
 
 const collectionInfo = {
-    name: "Culture Cubs NFT",
+    name: "Bored Stackers Nft",
     date: "13.06.2022",
     socialMedia: {
         discord: "discord.gg/",
